@@ -189,5 +189,5 @@
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
 - [Walter Brahman](https://github.com/veugelenw)
 - [Will Gebbie](https://github.com/will-gebbie)
-
+- [Naman Dixit](https://github.com/NDnaman)
 <!-- Please follow ALPHABETICAL ORDER -->
